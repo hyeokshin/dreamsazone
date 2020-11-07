@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="200" viewBox="0 0 1280 200">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 150px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #fff;
+        font-family: "Headline R";
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 33.333px;
+      }
+    </style>
+    <path id="text-path"/>
+  </defs>
+  <text id="드림즈에이젯원" class="cls-1" x="194.34" y="152.327">드림즈에이젯원</text>
+  <rect id="사각형_1" data-name="사각형 1" x="24" y="24" width="147" height="147"/>
+  <text class="cls-2"><textPath xlink:href="#text-path"><tspan class="cls-3">로고위치</tspan></textPath></text>
+</svg>
