@@ -10161,9 +10161,6 @@ video {
   position: absolute; 
   top: 50%; 
   width: 100%; 
-}
-.header-video-text p { 
-  margin-top: -24px; 
   text-align: center; 
   font-size: 24px; 
   color: #ffffff; 
