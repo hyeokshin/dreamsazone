@@ -3,6 +3,7 @@
     <style>
       .cls-1 {
         font-size: 150px;
+        letter-spacing: 10px;
       }
 
       .cls-1, .cls-3 {
@@ -16,7 +17,6 @@
     </style>
     <path id="text-path"/>
   </defs>
-  <text id="드림즈에이젯원" class="cls-1" x="194.34" y="152.327">드림즈에이젯원</text>
-  <rect id="사각형_1" data-name="사각형 1" x="24" y="24" width="147" height="147"/>
+  <text id="드림즈에이젯원" class="cls-1" x="54.34" y="152.327">드림즈에이젯원</text>
   <text class="cls-2"><textPath xlink:href="#text-path"><tspan class="cls-3">로고위치</tspan></textPath></text>
 </svg>
